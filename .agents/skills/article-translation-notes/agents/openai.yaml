@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Translation Notes"
+  short_description: "Translate articles and distill concise notes"
+  default_prompt: "Use $article-translation-notes to translate an article into Chinese, extract concise paragraph-style notes, and save both outputs into a folder in the current workspace."
